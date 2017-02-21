@@ -1,9 +1,11 @@
-# Sample Android TV Channel App (TV Input) using TIF
+# (Modified) Sample Android TV Channel App (TV Input) using TIF
 
 This app is designed to show how to build live TV channel apps for
 Android TV using the TV Input Framework (TIF). The sample is a service
 that once installed, is recognized and run by the default TV app
 (e.g. Live Channels app).
+
+Modification combine TV input sample with Leanback sample library.
 
 ## Introduction
 
